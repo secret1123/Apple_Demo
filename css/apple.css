@@ -14,37 +14,22 @@ body {
 #header {
     float: left;
     position: fixed;
-    /*font-size: 14px;*/
-    /*line-height: 1.52947;*/
-    /*font-weight: 400;*/
-    /*letter-spacing: -.021em;*/
-    /*font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;*/
-    /*background: #000;*/
     opacity: 1;
     height: 40px;
     margin: 0;
     width: 100%;
-    /*cursor: pointer;*/
-    /*display: inline-block;*/
-    /*list-style: none;*/
+    
 }
 
 #head1,#head2,#head3,#head4,#head5,#head6,#head7,#head8,#head9,#head10 {
-    /*color: #fff;*/
     float: left;
     width: 48px;
     height: 10px;
     background: transparent;
-    /*font-size: 17px;*/
-    /*font-family: "Arial",sans-serif;*/
     margin-left: 20px ;
     padding-right: 38px;
     cursor: pointer;
 }
-/*#head2:hover,#head3:hover,#head4:hover,#head5:hover,#head6:hover,#head7:hover,#head8:hover{*/
-    /*cursor: pointer;*/
-    /*color: silver;*/
-/*}*/
 #head1 {
     margin-left: 150px;
     /*padding-bottom: 20px;*/
@@ -52,7 +37,7 @@ body {
 #content {
     background: black;
     height: 500px;
-    /*background-image: url("../image/watch_alt_large_2x.jpg") ;*/
+    
 }
 #big1 {
     float: left;
